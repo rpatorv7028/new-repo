@@ -1,2 +1,1 @@
-Sample sentence testing.
-# new-repo
+Updated sentence
